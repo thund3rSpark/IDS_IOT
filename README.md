@@ -63,7 +63,7 @@ Dataset	CIC IDS 2018
 Deployment	Flask Server / Docker (optional)
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/IDS-IoT.git
+git clone https://github.com/thund3rSpark/IDS-IoT.git
 cd IDS-IoT
 
 2️⃣ Create and activate a virtual environment
@@ -142,7 +142,7 @@ Automated model retraining pipeline with new attack data
 
 🤝 Contributors
 
-[Your Name] – Developer & Researcher
+Thunder Spark– Developer & Researcher
 
 Open for collaboration! Feel free to submit PRs or suggest enhancements.
 
